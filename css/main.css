@@ -120,7 +120,7 @@ body {
 
 .header-list-link::before {
     content: '';
-    display: block
+    display: block;
     width: 48px;
     height: 6px;
     background-color: rgba(254, 198, 45, 1);
