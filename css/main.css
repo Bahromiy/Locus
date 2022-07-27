@@ -55,7 +55,7 @@ body {
 }
 
 .container {
-    width: 1612px;
+    max-width: 1612px;
     margin-left: auto;
     margin-right: auto;
     
